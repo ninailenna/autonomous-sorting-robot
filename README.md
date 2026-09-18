@@ -1,6 +1,6 @@
 # autonomous-sorting-robot
 A 3D-printed robotic arm for sorting colored cubes using computer vision and inverse kinematics.
-Developed as a team project for the Master's program at TH Köln.
+Developed as a team project (from Nina-Ilenna Müller and Maksym Poizdnyk) for the Master's program at TH Köln.
 
 ## Overview
 The system uses an overhead camera to detect colored cubes
@@ -20,6 +20,7 @@ sort the cubes.
 <img width="638" height="479" alt="image" src="https://github.com/user-attachments/assets/25a306dc-93da-4c24-8e64-0616b24e845d" />
 
 
-## Project Status
+## Video
+I made a Youtube Video describing the project and showing the final work: https://youtu.be/ObwNQjSZZhc?si=5rtt6Ly3HG1N77sa 
 
-Documentation and source code are being prepared for publication.
+Source code is available in this repository.
