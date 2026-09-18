@@ -1,0 +1,13 @@
+{
+  "ready_pose": {
+    "shoulder_pan.pos": -11.340659340659341,
+    "shoulder_lift.pos": 87.07692307692308,
+    "elbow_flex.pos": -78.98901098901099,
+    "wrist_flex.pos": 4.791208791208791,
+    "wrist_roll.pos": 6.989010989010989,
+    "gripper.pos": 22.508474576271187
+  },
+  "target_color": "ALL",
+  "order": "RANDOM",
+  "hand_clear_delay_s": 10.0
+}

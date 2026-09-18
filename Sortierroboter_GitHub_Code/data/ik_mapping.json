@@ -1,0 +1,17 @@
+{
+    "shoulder_pan.pos": {
+        "ik_name": "base",
+        "offset": 0.0,
+        "sign": -1.0
+    },
+    "shoulder_lift.pos": {
+        "ik_name": "shoulder",
+        "offset": 0.0,
+        "sign": 1.0
+    },
+    "elbow_flex.pos": {
+        "ik_name": "elbow",
+        "offset": 0.0,
+        "sign": -1.0
+    }
+}

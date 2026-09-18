@@ -1,0 +1,10 @@
+{
+  "ready_pose": {
+    "shoulder_pan.pos": -8.791208791208792,
+    "wrist_flex.pos": -37.05494505494506,
+    "shoulder_lift.pos": 39.252747252747255,
+    "elbow_flex.pos": -36.61538461538461,
+    "wrist_roll.pos": 6.373626373626373,
+    "gripper.pos": 23.52542372881356
+  }
+}
